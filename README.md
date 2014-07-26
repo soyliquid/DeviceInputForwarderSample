@@ -9,3 +9,6 @@ DeviceInputForwarderSample
 
 クライアントは此方から取得してください。
 https://googledrive.com/host/0ByUpVh3J6kXjbmROczV0Q3V2YXM
+
+このソフトウェアはMITライセンスを適用しています。
+This software is released under the MIT License, see LICENSE.
